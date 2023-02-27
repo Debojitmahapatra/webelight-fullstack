@@ -1,0 +1,113 @@
+.allcurt{
+    border: 1px solid rgb(250, 246, 246);
+    display: inline;
+  
+}
+.total-compo{
+    
+    width: 400px;
+    height: 380px;
+    float: right;
+    margin-right: 25px;
+    margin-top: 30px;
+}
+.total-compo h2{
+   
+    width: 183px;
+    margin-left: 27px;
+    color: rgb(25, 18, 159);
+}
+.total-compo h2 h1{
+    margin-left: 41px;
+    margin-top: 12px;
+    color: red;
+}
+.regbtn{
+  
+    margin-top: 74px;
+    height: 57px;
+    margin-left: 41px;
+    width: 200px;
+}
+
+.cartall{
+   
+    border: 1px solid black;
+    width: 589px;
+    height: 445px;
+
+}
+.cartImg{
+    border: 1px solid black;
+    width: 306px;
+    height: 240px;
+    border-radius: 57px;
+    margin-left: 14px;
+    margin-top: 11px;
+}
+.cartall h3{
+   
+    width: 240px;
+    height: 82px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.cartall h2{
+        
+        width: 254px;
+        float: right;
+        margin-right: 0px;
+        margin-top: -95px;
+        color: blue;
+        border-radius: 23px;
+}
+.cartall h4{
+    width: 191px;
+    float: right;
+    margin-right: 54px;
+    margin-top: -149px;
+}
+.papu-button{
+    position: relative;
+    display: inline-flex;
+    vertical-align: middle;
+    width: 189px;
+    margin-left: 84px;
+    margin-top: 83px;
+    height: 80px;
+    padding: 5px;
+}
+.papu-button2{
+    border: 1px solid black;
+    width: 72px;
+    padding: 2px;
+    background-color: rgb(31, 16, 16);
+    font-size: 40px;
+    height: 66px;
+}
+.papu-button3{
+    border: 1px solid black;
+    padding: 2px;
+    background-color: #090909;
+    color: rgb(227, 227, 227);
+    font-variant: stacked-fractions;
+    font-size: 40px;
+    height: 66px;
+}
+
+.delete-cart-btn{
+    width: 128PX;
+    float: right;
+    height: 39px;
+    border-radius: 11px;
+    margin-top: 102px;
+    background-color: red;
+    font-size: 21px;
+    color: aliceblue;
+    margin-right: 9px;
+}
+
+.delete-cart-btn:hover{
+    background-color: rgb(226, 82, 82)
+}

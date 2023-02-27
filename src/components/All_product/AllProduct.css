@@ -1,0 +1,95 @@
+
+
+
+  .cart-btn-add {
+    background-color: #7177ee;
+    border-radius: 6px;
+    font-size: 13px;
+    color: #FFFFFF;
+    /* -webkit-text-decoration: solid; */
+    -webkit-text-decoration: solid;
+    text-decoration: solid;
+    height: 30px;
+    margin-right: 145px;
+    margin-top: 79px;
+    width: 101px;
+    
+  }
+  
+  .cart-btn:hover {
+    background-color:rgb(11, 11, 68);
+    box-shadow: 10px 5px 5px rgb(91, 94, 69);
+  }
+
+  .butn{
+    display: inline-flex;
+    float: right;
+    margin-top: 2px;
+    margin-right: -147px;
+  }
+
+
+  .Card{
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .head{
+   color: black;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 20px;
+   margin-top: 33px;
+  }
+
+  .pric{
+    color: deeppink;
+  }
+  .classcard{
+    width: 17rem;
+    height: 25rem;
+    padding: 21px;
+    background-color: rgb(229, 221, 221);
+    text-align: center;
+    display: inline-block;
+  }
+  .cards{
+    border: 1px solid black;
+    width: 301px;
+    text-align: center;
+  }
+  .holegroup{
+    display: inline;
+  }
+  .searchbox{
+    width: 400px;
+    padding: 12px;
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: bisque;
+  }
+  .cardImg{
+  
+    height: 149px;
+    width: 171px;
+    border: 1px solid;
+}
+.cardImg:hover{
+  
+  box-shadow: 10px 5px 5px rgb(91, 94, 69);
+}
+.classcard56{
+  margin-right: auto;
+  margin-top: 50px;
+  padding: 5px;
+  width: 300px;
+  height: 450px;
+  box-shadow: 5px 5px 10px #ccc;
+  text-align: center;
+  background-color: #FFFFFF;
+  justify-content: center ;
+  
+ 
+}
+.classcard56:hover{
+box-shadow: 10px 5px 5px gray;
+}
+  
